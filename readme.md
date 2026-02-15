@@ -12,8 +12,7 @@ This repository contains my accepted solutions to Codeforces problems. Each prob
 
 ## Languages Used
 
-- **C**
-- **C++**
+- **C / C++**
 - **Python**
 - **Java**
 
