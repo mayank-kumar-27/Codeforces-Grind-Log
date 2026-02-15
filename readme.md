@@ -13,6 +13,7 @@ This repository contains my accepted solutions to Codeforces problems. Each prob
 ## Languages Used
 
 - **C**
+- **C++**
 - **Python**
 - **Java**
 
@@ -34,7 +35,7 @@ Codeforces-Grind-Log/
 ├── 59A_Word/
 │   └── solution.py
 ├── 112A_Petya_and_Strings/
-│   └── solution.c
+│   └── solution.cpp
 └── ...
 ```
 
