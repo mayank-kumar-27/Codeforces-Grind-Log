@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Java 21](https://github.com/mayank-kumar-27/Codeforces-Grind-Log/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.java) |
 
 ### math
 
