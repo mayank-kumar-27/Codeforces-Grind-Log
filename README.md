@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1931B | [Make Equal](https://codeforces.com/contest/1931/problem/B) | 800 | [Java 21](https://github.com/mayank-kumar-27/Codeforces-Grind-Log/blob/HEAD/1931/B%20-%20Make%20Equal/solution.java) |
 
 ### implementation
 
