@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Java 21](https://github.com/mayank-kumar-27/Codeforces-Grind-Log/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.java) |
+| 1914A | [Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | 800 | [Java 21](https://github.com/mayank-kumar-27/Codeforces-Grind-Log/blob/HEAD/1914/A%20-%20Problemsolving%20Log/solution.java) |
 
 ### math
 
@@ -41,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1914A | [Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | 800 | [Java 21](https://github.com/mayank-kumar-27/Codeforces-Grind-Log/blob/HEAD/1914/A%20-%20Problemsolving%20Log/solution.java) |
 | 2179A | [Blackslex and Password](https://codeforces.com/contest/2179/problem/A) | 800 | [Java 21](https://github.com/mayank-kumar-27/Codeforces-Grind-Log/blob/HEAD/2179/A%20-%20Blackslex%20and%20Password/solution.java) |
 
 ---
